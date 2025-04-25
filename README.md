@@ -157,6 +157,12 @@ List<String> names = restTemplate.getForObject("http://name-service/names", List
 
 La résolution du nom `name-service` est faite automatiquement grâce à **Eureka** et le **LoadBalancer** intégré.
 
+## Ressources 
+
+### Tutoriel Youtube
+**Master Service Discovery in Microservices | Eureka and Java Spring Boot**
+> https://www.youtube.com/watch?v=ecuEkmFs5Vk
+
 ---
 
 ## 👨‍🏫 Contexte pédagogique
