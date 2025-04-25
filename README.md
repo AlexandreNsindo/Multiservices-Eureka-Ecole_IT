@@ -90,7 +90,7 @@ microservices-jour2-full/
 
 ---
 
-## 📂 Structure simplifiée
+## 📂 Structure Detaillée
 
 ```
 .
